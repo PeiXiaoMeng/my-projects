@@ -53,16 +53,7 @@
 	<li>前端逻辑实现</li>
 	<li>部分前端设计稿还原</li>
 </ul>
-<ul style="display:flex;flex-direction: row;">
-	<li>
-		![avatar]("./chengkao.jpeg")
-		<!-- <img style="width: 100px;height:100px;" src="./chengkao.jpeg">	 -->
-	</li>
-	<li>
-		![avatar](./chengkao.jpeg)
-		<!-- <img style="width: 200px;height:200px;" src="./teacher.jpeg"> -->	
-	</li>
-</ul>
+![Alt text](https://github.com/PeiXiaoMeng/my-projects/blob/master/ScreenShots/chengkao.jpeg)
 
 ##### 山西融创智联信息科技有限公司（2016年2月～2018年7月）
 <hr />
