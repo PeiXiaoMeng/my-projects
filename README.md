@@ -53,6 +53,8 @@
 	<li>前端逻辑实现</li>
 	<li>部分前端设计稿还原</li>
 </ul>
+
+
 ![Alt text](https://github.com/PeiXiaoMeng/my-projects/blob/master/ScreenShots/chengkao.jpeg)
 
 ##### 山西融创智联信息科技有限公司（2016年2月～2018年7月）
