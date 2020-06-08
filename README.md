@@ -55,10 +55,12 @@
 </ul>
 <ul style="display:flex;flex-direction: row;">
 	<li>
-		<img style="width: 100px;height:100px;" src="./chengkao.jpeg">	
+		![avatar]("./chengkao.jpeg")
+		<!-- <img style="width: 100px;height:100px;" src="./chengkao.jpeg">	 -->
 	</li>
 	<li>
-		<img style="width: 200px;height:200px;" src="./teacher.jpeg">	
+		![avatar](./chengkao.jpeg)
+		<!-- <img style="width: 200px;height:200px;" src="./teacher.jpeg"> -->	
 	</li>
 </ul>
 
@@ -72,7 +74,7 @@
 <p>项目地址：<a>http://www.pmhuai.top:3001/railway/login.html</a></p>
 <p>测试账号：admin</p>
 <p>测试密码：admin</p>
-<p>说明: 由于该项目最终已部署在太原中铁局服务器下，已不对外开放，目前提供的是我个人版阿里云服务器（带宽、内存等较低）。项目采用iframe + bootstrap的方式，故访问较慢。</p>
+<p>说明: 由于该项目最终已部署在太原中铁局服务器下，已不对外开放，目前提供的是我个人版阿里云服务器（带宽、内存等较低）部署的测试版本。项目采用iframe + bootstrap的方式，故访问较慢。</p>
 <ul>
 	<li>在该项目中，我主要负责登录模块、用户模块、角色模块、权限模块、系统设置等各模块的前、后端开发工作。项目周期3个月时长，通过该项目，我意识到单页面应用的不可替代性，并且在之后的项目中，更加注重对代码质量的提升。</li>
 </ul>
