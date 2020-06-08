@@ -53,9 +53,9 @@
 	<li>前端逻辑实现</li>
 	<li>部分前端设计稿还原</li>
 </ul>
-<ul style="display:flex;">
+<ul style="display:flex;flex-direction: row;">
 	<li>
-		<img style="width: 200px;height:200px;" src="./chengkao.jpeg">	
+		<img style="width: 100px;height:100px;" src="./chengkao.jpeg">	
 	</li>
 	<li>
 		<img style="width: 200px;height:200px;" src="./teacher.jpeg">	
