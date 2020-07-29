@@ -4,7 +4,6 @@
 	<li>电话：13366276991</li>
 	<li>邮箱：xiame27@163.com</li>
 	<li>微信：peimenghuai</li>
-	<li>Github：https://github.com/PeiXiaoMeng</li>
 </ul>
 
 #### 个人信息
@@ -29,11 +28,6 @@
 	<li>该小程序属于从原有公司业务结合小程序的方式搭建（uni-app + webview），小程序端采用全es6的写法，原有页面把业务进行一个扩展（字节跳动小程序），涉及到的技能点如localstorage，scss，vw、vh单位等等</li>
 	<li>在项目中，除了组件封装、页面还原等工作外，我对未来公司业务能涉及到的同类型程序做了业务抽象，将baseColor，singleId等参数配置到config文件中，在项目启动后进行initTemp()方法，选择要打包的项目（抖音or微信？商城or酒店？）</li>
 </ul>
-
-<!-- <strong>自身积累</strong>
-<ul>
-	<li>自己在工作间隙或业余时间，尝试搭建前端微服务架构，每新增一个模块，去动态修改父级项目的router配置。并尝试用在现有业务。</li>
-</ul> -->
 
 <strong>商城后台管理系统</strong>
 <p>项目地址：<a>http://polotrip.msy.cn/ft-admin/</a></p>
