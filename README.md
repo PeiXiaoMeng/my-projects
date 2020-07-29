@@ -30,10 +30,22 @@
 	<li>在项目中，除了组件封装、页面还原等工作外，我对未来公司业务能涉及到的同类型程序做了业务抽象，将baseColor，singleId等参数配置到config文件中，在项目启动后进行initTemp()方法，选择要打包的项目（抖音or微信？商城or酒店？）</li>
 </ul>
 
-<strong>自身积累</strong>
+<!-- <strong>自身积累</strong>
 <ul>
 	<li>自己在工作间隙或业余时间，尝试搭建前端微服务架构，每新增一个模块，去动态修改父级项目的router配置。并尝试用在现有业务。</li>
+</ul> -->
+
+<strong>商城后台管理系统</strong>
+<p>项目地址：<a>http://polotrip.msy.cn/ft-admin/</a></p>
+<p>说明: 由于该项目已上线正式环境，故不提供账号密码等。</p>
+<ul>
+	<li>该项目对vue-elemnt-admin进行二次封装，在原有项目中我对业务进行了抽象，通过config对baseColor、loginPage、routers、loginType、tableView等诸多业务场景进行了可自定义配置,在项目启动时，通过selectTemp（）方法进行模版选择。</li>
 </ul>
+<strong>项目截图</strong>
+<div>
+	<img src="./ScreenShots/admin1.jpg" style="width:380px;float:left;">
+	<img src="./ScreenShots/admin2.jpg" style="width:380px;">
+</div>
 
 ##### 北京弘成教育有限公司（2018年8月～2019年8月）
 <hr />
@@ -53,16 +65,33 @@
 	<li>前端逻辑实现</li>
 	<li>部分前端设计稿还原</li>
 </ul>
-
-![Alt text](https://github.com/PeiXiaoMeng/my-projects/blob/master/ScreenShots/chengkao.jpeg)
-
-![Alt text](https://github.com/PeiXiaoMeng/my-projects/blob/master/ScreenShots/teacher.jpeg)
+<span>项目地址：</span>
+<div>
+	<img src="./ScreenShots/chengkao.jpeg" style="width:180px;">	
+	<img src="./ScreenShots/teacher.jpeg" style="width:180px;">	
+</div>
 
 ##### 山西融创智联信息科技有限公司（2016年2月～2018年7月）
 <hr />
 <ul>
 	<li>融创智联信息是太原成立较早的一家中小型IT、计算机企业，涉及融创棋牌、太原路桥等国企型方面业务。在该公司，我跟部门领导与老板学到了很多前沿的前端技术，也快速由一个小白成长为一个可以独当一面的项目负责人。</li>
 </ul>
+
+<strong>库壳机器人编程</strong>
+
+<p>本项目中，前端采用vue-cli2脚手架实现公众号h5页面，采用原生的写法来实现微信小程序，在项目中，我担任前端负责人，负责忍下工作：</p>
+<ul>
+	<li>分配另一个前端同事的工作，使用svn进行版本管理</li>
+	<li>项目发布前进行项目的review（规范项目名、项目子文件夹、代码解耦、优化等）</li>
+	<li>通过terminal的方式，进行项目打包上传</li>
+	<li>页面的高度还原、前端组件封装</li>
+</ul>
+<strong>自身积累</strong>
+<ul>
+	<li>经过该项目，在对用户体验的优化上，我使用到一些以前未曾尝试过的技术，如：七牛云图片方式，在ui设计图经过tiny方式压缩后，再通过七牛云的方式，减少了图片加载慢的一个痛点；在以往的list请求种，我会每点击一个tab，去服务端拉去一次数据，本次开发，我对list数据进行本地存储，减少与服务端的交互，从而改善了节省了用户流量，提升了用户体验。</li>
+</ul>
+<span>项目地址：</span>
+<img src="./ScreenShots/kuke.png" style="width:180px;">	
 
 <strong>中国铁建项目安全质量管理平台</strong>
 <p>项目地址：<a>http://www.pmhuai.top:3001/railway/login.html</a></p>
